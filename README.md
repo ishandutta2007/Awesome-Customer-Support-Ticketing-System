@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Customer-Support-Ticketing-System/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Customer-Support-Ticketing-System?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Customer-Support-Ticketing-System/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Customer-Support-Ticketing-System?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Customer-Support-Ticketing-System/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Customer-Support-Ticketing-System?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Customer-Support-Ticketing-System/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Customer-Support-Ticketing-System?style=flat-square&color=red" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Customer-Support-Ticketing-System/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -79,7 +79,7 @@ The competitive landscape is **moderately concentrated at the top**—where ente
 
 ## 💻 Open-Source GitHub Projects
 
-| Project | Star Badge | Description |
+| Project | Stars_Badge | Description |
 |---------|------------|-------------|
 | **[Chatwoot](https://github.com/chatwoot/chatwoot)** | [![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) | **The leading open-source customer engagement suite and omnichannel inbox.** ~39.8k stars. Built with Ruby on Rails and Vue.js. Unifies live website chat, email, WhatsApp, Telegram, Facebook, and Instagram into one inbox with multi-brand support, canned responses, agent automations, and mobile apps. |
 | **[UVdesk](https://github.com/uvdesk/community-skeleton)** | [![Stars](https://img.shields.io/github/stars/uvdesk/community-skeleton?style=social&color=white)](https://github.com/uvdesk/community-skeleton/stargazers) | **Full-featured open-source helpdesk on Symfony/PHP.** ~19.6k stars. Designed with modular bundle architecture, customer self-service portal, knowledge base, and multi-channel email ticketing. Well-suited for e-commerce platforms (Magento, Shopify integrations). |
